@@ -1,0 +1,41 @@
+5
+##start
+a 0 0
+b 1 1
+c 2 2
+d 3 3
+e 4 4
+f 5 5
+g 6 6
+h 7 7
+i 8 8
+j 9 9
+k 10 10
+l 11 11
+m 12 12
+## SALUT
+n 13 13
+o 14 14
+##end
+p 15 15
+a-b
+a-c
+a-d
+a-e
+a-g
+a-h
+e-f
+b-i
+c-j
+d-k
+e-l
+f-m
+g-n
+h-o
+i-j
+j-p
+k-l
+l-p
+m-p
+n-p
+n-o

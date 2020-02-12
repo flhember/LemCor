@@ -1,0 +1,51 @@
+45
+##start
+A 0 0
+B 1 1
+C 2 2
+D 3 3
+E 4 4
+F 5 5
+G 6 6
+H 7 7
+I 8 8
+J 9 9
+K 10 10
+S 11 11
+M 12 12
+N 13 13
+O 14 14
+P 15 15
+Q 16 16
+##end
+R 17 17
+A-B
+A-C
+A-D
+B-C
+B-F
+C-G
+C-D
+D-H
+D-E
+E-I
+F-G
+F-J
+G-K
+G-H
+H-S
+H-I
+I-M
+J-K
+J-N
+K-O
+K-S
+S-P
+S-M
+M-Q
+N-O
+O-P
+O-R
+P-R
+P-Q
+Q-R

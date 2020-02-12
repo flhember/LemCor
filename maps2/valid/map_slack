@@ -1,0 +1,55 @@
+20
+##start
+start 1 2
+##end
+end 2 3
+short1 3 4
+short2 4 5
+short3 5 6
+short4 6 7
+short5 7 8
+longA1 8 9
+longA2 9 0
+longA3 11 12
+longA4 12 13
+longA5 13 14
+longB1 14 15
+longB2 15 16
+longB3 16 17
+longB4 17 18
+longC1 19 20
+longC2 21 22
+longC3 22 23
+longC4 23 24
+longC5 25 26
+longC6 26 27
+longC7 27 28
+# Short path
+start-short1
+short1-short2
+short2-short3
+short3-short4
+short4-short5
+short5-end
+# Long path A
+short1-longA1
+longA1-longA2
+longA2-longA3
+longA3-longA4
+longA4-longA5
+longA5-end
+# Long path B
+short3-longB1
+longB1-longB2
+longB2-longB3
+longB3-longB4
+longB4-end
+# Long path C
+start-longC1
+longC1-longC2
+longC2-longC3
+longC3-longC4
+longC4-longC5
+longC5-longC6
+longC6-longC7
+longC7-short5

@@ -1,0 +1,15 @@
+42
+##start
+A -1 0
+-toto 1 0
+C 0 0
+D 4 0
+E 5 0
+##end
+F 6 0
+A--toto
+A-E
+-toto-C
+-toto-D
+C-F
+D-F
